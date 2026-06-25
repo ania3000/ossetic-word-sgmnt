@@ -7,3 +7,12 @@
 * BIE, S - token
 * KZJ, D - multi-word token
 * X - space
+## Pilot 25.6
+* BIE, S - token
+* X - space
+
+Transformation types:
+1) add ӕ to the start (A)
+2) remove first symbol (Y)
+3) change first symbol (K)
+4) change last symbol (J)
